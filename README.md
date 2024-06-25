@@ -2,7 +2,7 @@
 - 👀 I’m interested in web development, machine learning, and open-source projects.
 - 🌱 I’m currently improving my Python skills.
 - 💞️ I’m looking to collaborate on projects related to AI and web development.
-- 📫 How to reach me [Email address](mailto : akshatabiradars2003@gmail.com) | [linkedin](https://www.linkedin.com/in/akshata-biradar-bb6306257/)
+- 📫 How to reach me[Email](mailto:akshatabiradars2003@gmail.com)|[linkedin](https://www.linkedin.com/in/akshata-biradar-bb6306257/)
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I can speak four languages fluently!
 
