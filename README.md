@@ -52,22 +52,6 @@ applications, RAG pipelines, multi-agent orchestration, and applied agentic syst
 
 🎓 **B.E., Electronics & Communication Engineering** — Lingaraj Appa Engineering College, Bidar (VTU), 2024 · CGPA **8.0/10**
 
-<!-- ===================== GITHUB STATS ===================== -->
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=akshatabiradars&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akshatabiradars&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=akshatabiradars&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=akshatabiradars&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7" alt="Trophies" />
-</p>
 
 <!-- ===================== CONNECT ===================== -->
 
