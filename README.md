@@ -32,7 +32,7 @@ applications, RAG pipelines, multi-agent orchestration, and applied agentic syst
 
 ## 🛠️ Tech I Work With
 
-**Languages:** Python · SQL 
+**Languages:** Python · SQL
 
 **LLM / AI:** LangGraph ·LangChain · LiteLLM · OpenAI · Google Gemini · Anthropic Claude 
 
