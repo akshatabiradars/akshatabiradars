@@ -38,7 +38,7 @@ applications, RAG pipelines, multi-agent orchestration, and applied agentic syst
 
 **Machine Learning / Deep Learning:** PyTorch · TensorFlow · Keras · scikit-learn · NLP
 
-**Backend:** FastAPI · Uvicorn · REST APIs · PostgreSQL · MongoDB · SQLite
+**Backend:** FastAPI · Uvicorn · PostgreSQL · MongoDB · SQLite
 
 **Frontend & Apps:** React·Streamlit
 
@@ -67,10 +67,4 @@ applications, RAG pipelines, multi-agent orchestration, and applied agentic syst
   <a href="https://github.com/akshatabiradars">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-</p>
-
-<!-- ===================== FOOTER ===================== -->
-
-<p align="center">
-  <em>Let's build and innovate together! Happy coding 🚀</em>
 </p>
